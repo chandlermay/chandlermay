@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Chandler Mei
 - 👀 I’m interested in Computer Science and possibly specializing in Cybersecurity or App development. 
-- 🌱 I’m currently learning Vue JS and JS as a whole. 
+- 🌱 I’m currently learning Java and C. 
 - 💞️ I’m looking to collaborate on App development or cybersecurity jobs. 
-- 📫 You can reach me at my email: chandler8.mei@gmail.com 
+- 📫 You can reach me at my email: chandlermei144@gmail.com 
 - ⚡ Fun fact about me: I'm a huge Star Wars fan and I love Star Wars legos. I also have a healthy passion for Pokemon and cars. 
 
 <!---
